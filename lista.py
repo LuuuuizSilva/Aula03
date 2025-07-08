@@ -1,0 +1,12 @@
+lista = ['Luiz', 'Carlos', 'Barbosa', 'da', 'Silva', 'namorada', 'Caroline']
+print(lista)
+print(len(lista))
+print(type(lista))
+print(lista[2])
+print(lista[-1])
+
+lista_numero = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]
+print(lista_numero)
+print(len(lista_numero))
+print(lista_numero[6])
+print(lista_numero[-1])

@@ -1,0 +1,12 @@
+tupla = (7,1,2,3,4)
+listnumero = list(tupla)
+#converter para lista
+listnumero.append(5)
+#inserir um objeto na ultima posicao
+listnumero.insert(0,0)
+#inserir um objeto em uma posicao especifica
+listnumero.pop(1)
+#remover um objeto na posicao especifica
+tupla = tuple(listnumero)
+print(tupla)
+

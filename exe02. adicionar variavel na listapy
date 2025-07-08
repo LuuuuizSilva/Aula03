@@ -1,0 +1,11 @@
+numero = []
+addnumero = int(input("Digite um número: "))
+# criando uma variavel para receber um numero
+numero.append(addnumero)
+# adicionar a variavel na lista
+addnumero = int(input("Digite outro número: "))
+# criando uma variavel para receber um numero
+numero.append (addnumero)
+# adicionar a variavel na lista
+print(numero)
+#exibindo a msg 
